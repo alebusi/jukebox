@@ -14,7 +14,7 @@
     padding-bottom 90px;
     text-align: center;
 }
-.menu: hover {
+.menu:hover {
     color: white;
     background-color: red;
 }
