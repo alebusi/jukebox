@@ -1,5 +1,6 @@
 .container {
     margin: 0 auto;
+    background-color: blue;
 }
 .menu {
     display: inline-block;
@@ -11,7 +12,7 @@
     font-family: Arial;
     padding-top 90px;
     padding-bottom 90px;
-    text-align:: center;
+    text-align: center;
 }
 .menu: hover {
     color: white;
