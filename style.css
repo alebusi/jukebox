@@ -8,7 +8,7 @@
     font-family: Arial;
     padding-top 90px;
     padding-bottom 90px;
-    align: center;
+    text-align:: center;
 }
 .menu: hover {
     color: white;
