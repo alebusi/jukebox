@@ -1,10 +1,16 @@
 .menu {
-    position: fixed;
-    top: 80px;
-    left: 80px;
-    padding: 30px;
-    background-color: red;
-    font-size: 3em;
-    color: white;
+    display: inline-block;
+    margin: 20px;
+    background-color: yellow;
+    width: 250px;
+    font-size: 70px;
+    color: black;
     font-family: Arial;
+    padding-top 90px;
+    padding-bottom 90px;
+    align: center;
+}
+.menu: hover {
+    color: white;
+    background-color: red;
 }
