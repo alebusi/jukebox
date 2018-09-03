@@ -11,8 +11,8 @@
     font-size: 70px;
     color: black;
     font-family: Arial;
-    padding-top 90px;
-    padding-bottom 90px;
+    padding-top: 90px;
+    padding-bottom: 90px;
     text-align: center;
 }
 .menu:hover {
