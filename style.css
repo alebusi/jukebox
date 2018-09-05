@@ -3,6 +3,12 @@
     margin: 150px auto;
     background-color: blue;
 }
+
+@media screen and (max-width: 650px) {
+  .container {
+      width: 590px;
+  }
+}
 .menu {
     display: inline-block;
     margin: 20px;
@@ -18,10 +24,4 @@
 .menu:hover {
     color: white;
     background-color: red;
-}
-
-@media screen and (max-width: 900px) {
-  .container {
-      width: 590px;
-  }
 }
