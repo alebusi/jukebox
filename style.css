@@ -19,3 +19,9 @@
     color: white;
     background-color: red;
 }
+
+@media screen and (max-width: 900px) {
+  .container {
+      width: 590px;
+  }
+}
