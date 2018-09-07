@@ -1,19 +1,16 @@
 .container {
     width: 880px;
     margin: 150px auto;
-    background-color: blue;
-    /*@media screen and (max-width: 900px) {width: 590px; background-color: red;}*/
 }
 @media screen and (max-width: 900px) {
   .container {
       width: 590px;
-      background-color: red;
   }
 }
 .menu {
     display: inline-block;
     margin: 20px;
-    background-color: yellow;
+    background-color: #ffbf18;
     width: 250px;
     font-size: 70px;
     color: black;
@@ -23,6 +20,5 @@
     text-align: center;
 }
 .menu:hover {
-    color: white;
-    background-color: red;
+    background-color: orange;
 }
