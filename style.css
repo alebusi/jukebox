@@ -1,3 +1,6 @@
+body {
+   cursor: not-allowed;
+}
 .container {
     width: 880px;
     margin: 150px auto;
@@ -21,4 +24,5 @@
 }
 .menu:hover {
     background-color: orange;
+    cursor: not-allowed;
 }
