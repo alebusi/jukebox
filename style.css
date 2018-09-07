@@ -1,3 +1,6 @@
+body {
+   cursor: not-allowed;
+}
 .container {
     width: 880px;
     margin: 150px auto;
