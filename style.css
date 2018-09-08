@@ -22,3 +22,6 @@
 .menu:hover {
     background-color: orange;
 }
+a {
+    cursor: pointer;
+}
