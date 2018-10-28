@@ -7,6 +7,7 @@
       width: 590px;
   }
 }
+
 .menu {
     display: inline-block;
     margin: 20px;
@@ -22,6 +23,22 @@
 .menu:hover {
     background-color: orange;
 }
+
+.podcast {
+    margin: 20px;
+    background-color: #000000;
+    width: 100%;
+    font-size: 50px;
+    color: white;
+    font-family: Arial;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.podcast:hover {
+    background-color: gray;
+}
+
 a {
     cursor: default;
 }
