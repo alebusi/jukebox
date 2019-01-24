@@ -13,7 +13,7 @@
 
 .menu {
     display: inline-block;
-    margin: 10px;
+    margin: 12px;
     background-color: #ffbf18;
     width: 220px;
     font-size: 70px;
@@ -29,7 +29,7 @@
 
 .podcast {
     display: inline-block;
-    margin: 10px;
+    margin: 12px;
     background-color: #000000;
     width: 220px;
     font-size: 70px;
