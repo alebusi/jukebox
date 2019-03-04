@@ -14,17 +14,17 @@
 .menu {
     display: inline-block;
     margin: 12px;
-    background-color: #ffbf18;
+    background-color: white;  /* #ffbf18; */
     width: 220px;
     font-size: 70px;
-    color: black;
+    color: red;
     font-family: Arial;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
 }
 .menu:hover {
-    background-color: #F88017;
+    background-color: #ffbf18; /*#F88017;*/
 }
 
 .podcast {
