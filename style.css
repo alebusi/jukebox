@@ -17,7 +17,7 @@
     background-color: white;  /* #ffbf18; */
     width: 220px;
     font-size: 70px;
-    color: red;
+    color: blue;
     font-family: Arial;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -40,7 +40,7 @@
     text-align: center;
 }
 .podcast:hover {
-    background-color: #e1e1e1;
+    background-color: #C0C0C0;
 }
 
 /*
