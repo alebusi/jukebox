@@ -1,5 +1,9 @@
+body {
+    background-color: black;
+}
+
 .container {
-    width: 82vw;
+    width: 90vw;
     margin: 5vh auto;
 }
 
@@ -13,11 +17,9 @@
 
 .menu {
     display: inline-block;
-    margin: 12px;
-    background-color: white;  /* #ffbf18; */
-    width: 220px;
-    font-size: 70px;
-    color: blue;
+    width: 300px;
+    font-size: 150px;
+    color: white;
     font-family: 'PT Sans Caption';
     padding-top: 20px;
     padding-bottom: 20px;
