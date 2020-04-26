@@ -9,13 +9,13 @@ body {
 
 .menu {
     display: inline-block;
-    width: 300px;
-    font-size: 120px;
+    width: 45vw;
+    font-size: 24px;
     color: white;
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 8vh;
+    padding-bottom: 8vh;
     text-align: center;
 }
 .menu:hover {
