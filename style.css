@@ -10,12 +10,12 @@ body {
 .menu {
     display: inline-block;
     width: 45vw;
-    font-size: 24px;
+    font-size: 40px;
     color: white;
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
-    padding-top: 8vh;
-    padding-bottom: 8vh;
+    padding-top: 6vh;
+    padding-bottom: 6vh;
     text-align: center;
 }
 .menu:hover {
