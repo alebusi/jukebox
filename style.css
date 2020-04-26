@@ -20,4 +20,5 @@ body {
 }
 .menu:hover {
     color: #FF3300;
+    cursor: pointer;
 }
