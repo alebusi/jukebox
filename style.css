@@ -7,14 +7,6 @@ body {
     margin: 10vh auto;
 }
 
-/*
-@media screen and (max-width: 900px) {
-  .container {
-      width: 590px;
-  }
-}
-*/
-
 .menu {
     display: inline-block;
     width: 300px;
@@ -29,45 +21,3 @@ body {
 .menu:hover {
     color: #FF3300;
 }
-
-.podcast {
-    display: inline-block;
-    width: 300px;
-    font-size: 120px;
-    color: orange;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 300;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    text-align: center;
-}
-.podcast:hover {
-    color: #FF3300;
-}
-
-/*
-.podcast {
-    margin: 20px;
-    background-color: #000000;
-    width: 830px;
-    font-size: 50px;
-    color: white;
-    font-family: Arial;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    text-align: center;
-}
-.podcast:hover {
-    background-color: gray;
-}
-*/
-
-a {
-    cursor: default;
-}
-
-.bordo {
-    margin: 18px;
-    border-top: solid 10px #ff3300;
-}
-    
